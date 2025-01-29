@@ -1,6 +1,7 @@
 # asymmetricDetection
 Source code underlying the paper: 
 Asymmetric limits on timely interventions from noisy epidemic data by Kris Parag, Ben Lambert, Christl Donnelly and Sandor Beregi.
+Preprint: https://www.medrxiv.org/content/10.1101/2025.01.28.25321278v1
 
 
 System Requirements:
