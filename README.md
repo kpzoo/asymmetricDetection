@@ -22,13 +22,13 @@ To run the simulations use the following files in the R folder.
 
 To test first lockdown deployment times:
 
-EpiCont_parallel_covid.R
-EpiCont_parallel_ebola.R
+- EpiCont_parallel_covid.R
+- EpiCont_parallel_ebola.R
 	
 To test first lockdown relaxation times:
 	
-EpiCont_parallel_relax_covid.R
-EpiCont_parallel_relax_ebola.R
+- EpiCont_parallel_relax_covid.R
+- EpiCont_parallel_relax_ebola.R
 
 To run simulations with surveillance noise use the settings delay = 1, ur = 1 when calling the function Epi_MPC_run_wd
 and delay = 0, ur = 0 otherwise.
