@@ -18,6 +18,8 @@ Run times of all scripts are of the order of minutes or faster.
 
 ### R files
 
+Instructuons:
+
 To run the simulations use the following files in the R folder.
 
 To test first lockdown deployment times:
@@ -33,4 +35,22 @@ To test first lockdown relaxation times:
 To run simulations with surveillance noise use the settings delay = 1, ur = 1 when calling the function Epi_MPC_run_wd
 and delay = 0, ur = 0 otherwise.
 
+Requirements:
 
+The code was created in R version 4.3.1.
+
+Load the functions: 
+
+- Epi_MPC_run_wd.R
+- Epi_pred_wd.R
+- reward_fun_wd.R
+
+Make sure the follwing packages are installed/loaded:
+
+- library(VGAM)
+- library(parallel)
+- library(pbapply)
+- library(zoo)
+- library(VGAM)
+- library(ggplot2)
+- library(gridExtra)
