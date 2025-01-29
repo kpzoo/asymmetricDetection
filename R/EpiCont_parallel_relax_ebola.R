@@ -151,7 +151,6 @@ clusterExport(cl, ls())
 clusterEvalQ(cl, episim_data_ens)
 clusterEvalQ(cl, {
   library(VGAM)
-  library(EpiControl)
 })
 
 results <- pblapply(1:sim_ens, function(jj) {
