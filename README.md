@@ -3,7 +3,7 @@ Source code underlying the paper:
 Asymmetric limits on timely interventions from noisy epidemic data by Kris Parag, Ben Lambert, Christl Donnelly and Sandor Beregi.
 Preprint: https://www.medrxiv.org/content/10.1101/2025.01.28.25321278v1
 
-#### Matlab files
+### Matlab files
 
 System Requirements:
 
@@ -16,7 +16,7 @@ Instructions and installation
 Run FigX.m where X is the figure in the manuscript to be reproduced.
 Run times of all scripts are of the order of minutes or faster.
 
-#### R files
+### R files
 
 To run the simulations use the following files in the R folder.
 
