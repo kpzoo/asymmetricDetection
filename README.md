@@ -45,7 +45,7 @@ Load the functions:
 - Epi_pred_wd.R
 - reward_fun_wd.R
 
-Make sure the follwing packages are installed/loaded:
+Make sure the follwing packages are installed and added to the library:
 
 - library(VGAM)
 - library(parallel)
