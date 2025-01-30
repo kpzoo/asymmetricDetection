@@ -18,7 +18,7 @@ Run times of all scripts are of the order of minutes or faster.
 
 ### R files
 
-Instructuons:
+Instructions (generates analyses underlying Fig3 and Fig4):
 
 To run the simulations use the following files in the R folder.
 
